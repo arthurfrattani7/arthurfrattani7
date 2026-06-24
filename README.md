@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">Atualmente sou desenvolvedor de software focado em desenvolvimento web full-stack, criando aplicações modernas.<br>
+<p align="left">Atualmente sou desenvolvedor de software focado em desenvolvimento Back-End, criando aplicações modernas.<br>
 - 📚 Atualmente estou trabalhando como Estagiário de desenvolvimento de sistemas web em uma empresa de análise de crédito. <br>
 - ⚡ No meu tempo livre, curto treinar, jogar alguns videogames, me divertir com amigos e jogar futebol.<br>
 - 🎓 Sempre aprimorando conhecimentos e focado em boas práticas de código e performance.<br>
-  - 🖥️ Procurando me especializar em Back-End.<br>
+- 🖥️ Procurando me especializar em Back-End.<br>
 - 🎯 Meu objetivo é ganhar cada vez mais experiência, dominar novas arquiteturas e crescer profissionalmente.</p>
 
 ###
