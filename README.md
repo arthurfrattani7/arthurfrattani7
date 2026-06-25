@@ -59,7 +59,6 @@
 
 ###
 
-![Snake animation](https://github.com/arthurfrattani7/arthurfrattani7/blob/output/github-contribution-grid-snake.svg)
 <!--
 <div align="left">
   <a href="https://www.linkedin.com/in/arthurnunesfrattani/" target="_blank">
